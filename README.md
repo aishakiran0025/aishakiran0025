@@ -1,6 +1,21 @@
 <h1 align="center">Hi 👋, Aisha Kiran</h1>
  
-<h1 align="center">Full-Stack Developer | MERN Stack | CMS | AI-Automation Engineer</h1>     
+<h1 align="center">Full-Stack Developer | MERN Stack | CMS | AI-Automation Engineer</h1> 
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR-USERNAME/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:YOUR-EMAIL@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://YOUR-PORTFOLIO-URL.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+</a>
+
+</div>
+
 
 🚀**About Me**
 
