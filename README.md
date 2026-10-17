@@ -1,4 +1,4 @@
-<h1 align="center">Aisha Kiran</h1>
+<h1 align="center">Hi 👋, Aisha Kiran</h1>
  
  Full-Stack Developer | MERN Stack | CMS | AI-Automation Engineer
 
