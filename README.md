@@ -1,6 +1,6 @@
 Hi 👋, I'm Aisha Kiran
  
- I'm a Full-Stack Developer 👋
+ Full-Stack Developer | MERN Stack | CMS | AI-Automation Engineer
 
 I'm a Full-Stack Developer specializing in the **MERN Stack, CMS Development, and Automation Engineering**. I build web applications, business websites, and automation solutions designed to solve real-world problems.
 
