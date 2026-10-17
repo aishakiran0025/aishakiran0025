@@ -3,8 +3,6 @@
 <h1 align="center">Full-Stack Developer | MERN Stack | CMS | AI-Automation Engineer</h1> 
 
 
-<div align="center">
-
 
 <!DOCTYPE html>
 <html lang="en">
@@ -79,7 +77,6 @@
 </body>
 </html>
 
-</div>
 
 
 
