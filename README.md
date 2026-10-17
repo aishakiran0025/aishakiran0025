@@ -10,9 +10,8 @@
 <a href="mailto:info.cortexontech@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-<a href="https://YOUR-PORTFOLIO-URL.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
-</a>
+
+
 
 </div>
 
