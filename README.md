@@ -5,15 +5,79 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-USERNAME/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:YOUR-EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://YOUR-PORTFOLIO-URL.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
-</a>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Social Links</title>
+
+<style>
+.social-links {
+  display: flex;
+  gap: 4px;
+  align-items: center;
+}
+
+.social-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 3px 6px;
+  border-radius: 3px;
+  color: white;
+  text-decoration: none;
+  font-family: Arial, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 14px;
+  transition: opacity 0.2s;
+}
+
+.social-btn:hover {
+  opacity: 0.8;
+}
+
+.linkedin {
+  background: #0875A9;
+}
+
+.email {
+  background: #C84637;
+}
+
+.portfolio {
+  background: #111111;
+}
+</style>
+</head>
+
+<body>
+
+<div class="social-links">
+
+  <a class="social-btn linkedin"
+     href="https://www.linkedin.com/in/aisha-kiran-314269433/"
+     target="_blank" rel="noopener noreferrer">
+    in LinkedIn
+  </a>
+
+  <a class="social-btn email"
+     href="mailto:info.cortexontech@gmail.com">
+    ✉ Email
+  </a>
+
+  <a class="social-btn portfolio"
+     href="https://YOUR-PORTFOLIO-LINK.com"
+     target="_blank" rel="noopener noreferrer">
+    ▲ Portfolio
+  </a>
+
+</div>
+
+</body>
+</html>
 
 </div>
 
