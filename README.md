@@ -14,21 +14,6 @@
 </p>
 
 
-
-
-  
-
-
-
-
-
-  
-
-  
-
-
-
-
 🚀**About Me**
 
 I'm a Full-Stack Developer specializing in the **MERN Stack, CMS Development, and Automation Engineering**. I build web applications, business websites, and automation solutions designed to solve real-world problems.
