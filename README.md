@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'M Aisha Kiran</h1>
+<h1 align="center">Hi 👋, I'm Aisha Kiran</h1>
  
 <h1 align="center">Full-Stack Developer | MERN Stack | CMS | AI-Automation Engineer</h1> 
 
