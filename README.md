@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-USERNAME/" target="_blank">
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/aisha-kiran-314269433/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:YOUR-EMAIL@example.com">
