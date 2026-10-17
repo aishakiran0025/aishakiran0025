@@ -2,18 +2,23 @@
  
 <h1 align="center">Full-Stack Developer | MERN Stack | CMS | AI-Automation Engineer</h1> 
 
-<div align="center">
+<div align="left">
 
 <a href="https://www.linkedin.com/in/aisha-kiran-314269433/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:info.cortexontech@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://www.cortexontechnologies.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Website-000000?style=flat&logo=About.me&logoColor=white" alt="Portfolio" />
 </a>
 
-
-
 </div>
+
+
+
+
 
 
 🚀**About Me**
