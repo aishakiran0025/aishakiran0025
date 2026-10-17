@@ -4,6 +4,81 @@
 <h1 align="center">Full-Stack Developer | MERN Stack | CMS | AI-Automation Engineer</h1> 
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Social Links</title>
+
+<style>
+.social-links {
+  display: flex;
+  gap: 4px;
+  align-items: center;
+}
+
+.social-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 3px 6px;
+  border-radius: 3px;
+  color: white;
+  text-decoration: none;
+  font-family: Arial, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 14px;
+  transition: opacity 0.2s;
+}
+
+.social-btn:hover {
+  opacity: 0.8;
+}
+
+.linkedin {
+  background: #0875A9;
+}
+
+.email {
+  background: #C84637;
+}
+
+.portfolio {
+  background: #111111;
+}
+</style>
+</head>
+
+<body>
+
+<div class="social-links">
+
+  <a class="social-btn linkedin"
+     href="https://www.linkedin.com/in/aisha-kiran-314269433/"
+     target="_blank" rel="noopener noreferrer">
+    in LinkedIn
+  </a>
+
+  <a class="social-btn email"
+     href="mailto:info.cortexontech@gmail.com">
+    ✉ Email
+  </a>
+
+  <a class="social-btn portfolio"
+     href="https://YOUR-PORTFOLIO-LINK.com"
+     target="_blank" rel="noopener noreferrer">
+    ▲ Portfolio
+  </a>
+
+</div>
+
+</body>
+</html>
+
+
+
 🚀**About Me**
 
 I'm a Full-Stack Developer specializing in the **MERN Stack, CMS Development, and Automation Engineering**. I build web applications, business websites, and automation solutions designed to solve real-world problems.
