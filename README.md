@@ -1,6 +1,3 @@
-#Hi, I'm a Full-Stack Developer 👋
-
-I'm a Full-Stack Developer specializing in the MERN Stack, CMS Development, and Automation Engineering. I build web applications, business websites, and automation solutions designed to solve real-world problems.
 
 <h1 align="center">Hi 👋, Aisha Kiran</h1>
  
