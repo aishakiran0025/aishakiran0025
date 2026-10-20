@@ -78,8 +78,6 @@ I enjoy working across the development process, from building user friendly inte
 </p>
 
 <h3 align="align">🗄️ Databases & Storage</h3>
-## 🗄️ Databases & Storage
-
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
