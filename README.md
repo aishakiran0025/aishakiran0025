@@ -95,8 +95,8 @@ I enjoy working across the development process, from building user friendly inte
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify" />
 </p>
 
-## 🔄 Automation & Integrations
 
+<h3 align="align">🔄 Automation & Integrations</h3>
 <p>
   <a href="https://n8n.io/" target="_blank">
     <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
