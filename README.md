@@ -38,8 +38,8 @@ I enjoy working across the development process, from building user friendly inte
   <img src="https://img.shields.io/badge/AssemblyAI-5B3DF5?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/ElevenLabs-111111?style=flat-square&logo=elevenlabs&logoColor=white" />
 </p>
-## 🧰 AI Development Tools
-
+## 
+<h3 align="align">🧰 AI Development Tools</h3>
 <p>
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=claude&logoColor=white" />
