@@ -25,7 +25,7 @@ I enjoy working across the development process, from building user friendly inte
 
 <h3 align="align">🛠️ Tech Stack & Tools</h3>
 <h4 align="align">🤖 AI & LLMs</h4>
-### AI Tools & Technologies
+
 
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
