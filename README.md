@@ -76,6 +76,7 @@ I enjoy working across the development process, from building user friendly inte
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
 </p>
+
 <h3 align="align">🗄️ Databases & Storage</h3>
 p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
