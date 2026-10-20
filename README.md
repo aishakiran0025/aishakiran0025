@@ -25,5 +25,17 @@ I enjoy working across the development process, from building user friendly inte
 
 <h3 align="align">🛠️ Tech Stack & Tools</h3>
 <h4 align="align">🤖 AI & LLMs</h4>
+### AI Tools & Technologies
 
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-263238?style=flat-square&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-34495E?style=flat-square&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-6C5CE7?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vapi-111827?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/AssemblyAI-5B3DF5?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/ElevenLabs-111111?style=flat-square&logo=elevenlabs&logoColor=white" />
+</p>
 
