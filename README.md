@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Aisha Kiran</h1>
  
-<h1 align="center">Full-Stack Developer | MERN Stack | CMS | AI-Automation Engineer</h1> 
+<h2 align="center">Full-Stack Developer | MERN Stack | CMS | AI-Automation Engineer</h2> 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aisha-kiran-314269433/" target="_blank">
