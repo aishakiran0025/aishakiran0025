@@ -38,7 +38,6 @@ I enjoy working across the development process, from building user friendly inte
   <img src="https://img.shields.io/badge/AssemblyAI-5B3DF5?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/ElevenLabs-111111?style=flat-square&logo=elevenlabs&logoColor=white" />
 </p>
-## 
 <h3 align="align">🧰 AI Development Tools</h3>
 <p>
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
@@ -48,8 +47,7 @@ I enjoy working across the development process, from building user friendly inte
   <img src="https://img.shields.io/badge/Replit-566875?style=flat-square&logo=replit&logoColor=white" />
   <img src="https://img.shields.io/badge/Codex-10A37F?style=flat-square&logo=openai&logoColor=white" />
 </p>
-## 💻 Languages
-
+<h3 align="align">💻 Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
