@@ -95,4 +95,34 @@ I enjoy working across the development process, from building user friendly inte
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify" />
 </p>
 
----
+## 🔄 Automation & Integrations
+
+<p>
+  <a href="https://n8n.io/" target="_blank">
+    <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+  </a>
+  <a href="https://www.make.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Make-6D4AFF?style=flat-square&logo=make&logoColor=white" alt="Make" />
+  </a>
+  <a href="https://zapier.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" alt="Zapier" />
+  </a>
+  <a href="https://docs.bullmq.io/" target="_blank">
+    <img src="https://img.shields.io/badge/BullMQ-EA4335?style=flat-square&logo=redis&logoColor=white" alt="BullMQ" />
+  </a>
+  <a href="https://stripe.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+  </a>
+  <a href="https://www.twilio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio" />
+  </a>
+  <a href="https://workspace.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=googleworkspace&logoColor=white" alt="Google Workspace" />
+  </a>
+  <a href="https://ads.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=googleads&logoColor=white" alt="Google Ads" />
+  </a>
+  <a href="https://developers.facebook.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Meta_API-0866FF?style=flat-square&logo=meta&logoColor=white" alt="Meta API" />
+  </a>
+</p>
