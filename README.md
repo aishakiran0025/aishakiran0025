@@ -23,7 +23,7 @@ I enjoy working across the development process, from building user friendly inte
 
 
 
-<h3 align="align">🛠️ Tech Stack & Tools</h3>
+<h4 align="align">🛠️ Tech Stack & Tools</h4>
 
 
 
