@@ -16,7 +16,7 @@
 
 
 <h3 align="align">🚀About Me</h3>
-I'm a Full-Stack Developer specializing in the **MERN Stack, CMS Development, and Automation Engineering**. I build web applications, business websites, and automation solutions designed to solve real-world problems.
+I'm a Full-Stack Developer specializing in the ## MERN Stack, CMS Development, and Automation Engineering. I build web applications, business websites, and automation solutions designed to solve real-world problems.
 
 I enjoy working across the development process, from building user friendly interfaces to developing backend systems and integrating APIs. My focus is on creating reliable, maintainable, and practical solutions that meet business needs.
 **Email: info.cortexontech@gmail.com**
