@@ -148,16 +148,7 @@ I enjoy working across the development process, from building user friendly inte
       <td>AI platform that researches topics, generates personalized LinkedIn content, monitors industry news, recommends publishing opportunities, and automates content operations.</td>
       <td>React, Next.js, Supabase, OpenAI, Claude, Gemini</td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/yourusername/adsmith">Adsmith</a></td>
-      <td>AI-powered marketing automation platform for generating personas, ad copy, images, and campaigns across Google and Meta Ads using multiple AI models.</td>
-      <td>React, TypeScript, Supabase, OpenAI, Gemini, Ideogram, Recraft, Stripe</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/yourusername/ehs-navigator">EHS Navigator</a></td>
-      <td>Enterprise multi-tenant SaaS platform for incident management, investigations, OSHA reporting, document management, and operational analytics.</td>
-      <td>React, NestJS, PostgreSQL, Redis, BullMQ, Docker, AWS</td>
-    </tr>
+
     <tr>
       <td><a href="https://github.com/yourusername/toryos">ToryOS</a></td>
       <td>AI-powered brokerage operating system featuring AI assistants, voice and text chat, document Q&A (RAG), contract generation, workflow automation, and knowledge management.</td>
