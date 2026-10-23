@@ -139,10 +139,10 @@ I enjoy working across the development process, from building user friendly inte
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🧵 [QueueBolt](https://github.com/YOUR-USERNAME/QueueBolt) | Production-ready background job queue for Node.js — retries with exponential backoff, priorities, delayed jobs, dead-letter queues, pluggable storage. | TypeScript |
-| 🏢 [nestjs-enterprise-kit](https://github.com/YOUR-USERNAME/nestjs-enterprise-kit) | A batteries-included NestJS starter for launching an MVP fast or modernizing legacy systems. | TypeScript · NestJS |
-| ⚡ [Kafka Ecommerce (heavy traffic)](https://github.com/YOUR-USERNAME/YOUR-KAFKA-REPO) | Event-driven architecture that absorbs bursty traffic and decouples producers from consumers at scale. | TypeScript · Kafka |
-| ☁️ [full-stack-serverless-cdk](https://github.com/YOUR-USERNAME/full-stack-serverless-cdk) | Full-stack serverless apps and APIs built with the AWS CDK, step by step. | TypeScript · AWS CDK |
-| 📋 [AI Kanban / Issue Tracker](https://github.com/YOUR-USERNAME/YOUR-AI-KANBAN-REPO) | Jira-style board with an AI-assisted workflow for planning and tracking work. | TypeScript |
+|  [QueueBolt](https://github.com/YOUR-USERNAME/QueueBolt) | Production-ready background job queue for Node.js — retries with exponential backoff, priorities, delayed jobs, dead-letter queues, pluggable storage. | TypeScript |
+|  [nestjs-enterprise-kit](https://github.com/YOUR-USERNAME/nestjs-enterprise-kit) | A batteries-included NestJS starter for launching an MVP fast or modernizing legacy systems. | TypeScript · NestJS |
+|  [Kafka Ecommerce (heavy traffic)](https://github.com/YOUR-USERNAME/YOUR-KAFKA-REPO) | Event-driven architecture that absorbs bursty traffic and decouples producers from consumers at scale. | TypeScript · Kafka |
+|  [full-stack-serverless-cdk](https://github.com/YOUR-USERNAME/full-stack-serverless-cdk) | Full-stack serverless apps and APIs built with the AWS CDK, step by step. | TypeScript · AWS CDK |
+|  [AI Kanban / Issue Tracker](https://github.com/YOUR-USERNAME/YOUR-AI-KANBAN-REPO) | Jira-style board with an AI-assisted workflow for planning and tracking work. | TypeScript |
 | [AI CRM Sales Automation System](YOUR_AI_CRM_REPO_LINK) | Enterprise AI-powered CRM that enables conversational sales workflows, contact management, meeting notes, AI email generation, follow-ups, and workflow automation through Claude AI. | React, Next.js, NestJS, PostgreSQL, Redis, BullMQ, Claude AI, OpenAI, AWS |
 | [LinkedIn AI Content Operating System](YOUR_LINKEDIN_AI_REPO_LINK) | AI platform that researches topics, generates personalized LinkedIn content, monitors industry news, recommends publishing opportunities, and automates content operations. | React, Next.js, Supabase, OpenAI, Claude, Gemini |
