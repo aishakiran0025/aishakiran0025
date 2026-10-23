@@ -134,3 +134,13 @@ I enjoy working across the development process, from building user friendly inte
   </a>
 </p>
 
+
+## 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🧵 [QueueBolt](https://github.com/YOUR-USERNAME/QueueBolt) | Production-ready background job queue for Node.js — retries with exponential backoff, priorities, delayed jobs, dead-letter queues, pluggable storage. | TypeScript |
+| 🏢 [nestjs-enterprise-kit](https://github.com/YOUR-USERNAME/nestjs-enterprise-kit) | A batteries-included NestJS starter for launching an MVP fast or modernizing legacy systems. | TypeScript · NestJS |
+| ⚡ [Kafka Ecommerce (heavy traffic)](https://github.com/YOUR-USERNAME/YOUR-KAFKA-REPO) | Event-driven architecture that absorbs bursty traffic and decouples producers from consumers at scale. | TypeScript · Kafka |
+| ☁️ [full-stack-serverless-cdk](https://github.com/YOUR-USERNAME/full-stack-serverless-cdk) | Full-stack serverless apps and APIs built with the AWS CDK, step by step. | TypeScript · AWS CDK |
+| 📋 [AI Kanban / Issue Tracker](https://github.com/YOUR-USERNAME/YOUR-AI-KANBAN-REPO) | Jira-style board with an AI-assisted workflow for planning and tracking work. | TypeScript |
